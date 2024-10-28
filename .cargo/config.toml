@@ -1,0 +1,6 @@
+[env]
+POLARS_FMT_MAX_COLS="3"
+POLARS_FMT_MAX_ROWS="30"
+POLARS_FMT_STR_LEN="1024"
+ADDRESES="volgait2024-semifinal-addresses.csv"
+SHUTDOWN="volgait2024-semifinal-task.csv"
